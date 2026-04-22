@@ -33,7 +33,7 @@ menu ul{
     color:#FFF;
     text-decoration:none;
 }
-.menu ul li a:hover {
+.menu ul li a:hover{
     background-collor:4b88bb;
     display:block;
 }
