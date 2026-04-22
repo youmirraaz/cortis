@@ -5,7 +5,6 @@ body{
     font-family:sans-serif;
     margin:0 auto;
 }
-
 .header{
     width:90%;
     margin:auto;
@@ -13,12 +12,8 @@ body{
     line-height:120px;
     background:#417aa8;
     color#fff;
-}
 
-.jarak{
-    padding:0 2pc;
 }
-
 .menu{
     background-color:#F527BB;
     height:50px;
@@ -28,16 +23,9 @@ body{
     margin:0 auto;
     padding:0 auto;
 }
-
-.menu ul li a:hover {
-    background-color:#F527C5;
-    display:block;
-}
-
 menu ul {
-list-style:none;
+    list-style:none;
 }
-
 .menu ul li a{
     float:left;
     width:70px;
@@ -46,7 +34,13 @@ list-style:none;
     color:#FFF;
     text-decoration:none;
 }
-
+.menu ul li a:hover {
+    background-collor:4b88bb;
+    display:block;
+}
+.jarak{
+    padding: 0 2pc;
+}
 .content{
     width:90%;
     margin:auto;
@@ -55,7 +49,6 @@ list-style:none;
     background:#fff;
     color:#333;
 }
-
 .border{
     border:2px solid #4887b9;
     margin-top:1pc;
@@ -63,7 +56,6 @@ list-style:none;
     padding-left:2pc;
     padding-right:2pc;
 }
-
 .kiri{
     width:70%;
     float:left;
@@ -71,7 +63,6 @@ list-style:none;
     background:#fff;
     height:420px;
 }
-
 .kanan{
     width:30%;
     float:left;
@@ -79,11 +70,9 @@ list-style:none;
     background:#fff;
     height:420px;
 }
-
 .undecor{
     text-decoration:none;
 }
-
 .footer{
     width:90%;
     margin:auto;
